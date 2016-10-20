@@ -1,5 +1,6 @@
 
 ### Online learning sites for React ###
+Info blatantly stolen from an HN comment
 
 ##### Free #####
 * https://github.com/timarney/react-faq
