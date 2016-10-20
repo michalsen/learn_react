@@ -14,6 +14,7 @@ Free free to add, or comment
 * React boilerplates meta-search: http://andrewhfarmer.com/starter-project/
 * General JavaScript: http://javascriptweekly.com/
 * Mastering Best Practices for Beginners and Advanced Developers at http://reactjs.co/
+* Discord https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html
 
 ##### Paid #####
 * https://reactforbeginners.com/
