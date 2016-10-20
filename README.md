@@ -5,6 +5,9 @@ Info blatantly stolen from an HN comment
 
 Free free to add, or comment
 
+##### The Big List #####
+https://github.com/enaqx/awesome-react
+
 ##### Free #####
 * https://github.com/timarney/react-faq
 * https://github.com/enaqx/awesome-react
