@@ -12,7 +12,6 @@ Free free to add, or comment
 * https://thisweekinreact.com/
 * http://reactjsnewsletter.com/
 * React boilerplates meta-search: http://andrewhfarmer.com/starter-project/
-* Discord server: https://facebook.github.io/react/blog/2015/10/19/reactiflux-...
 * General JavaScript: http://javascriptweekly.com/
 * Mastering Best Practices for Beginners and Advanced Developers at http://reactjs.co/
 
