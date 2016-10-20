@@ -1,6 +1,9 @@
 
 ### Online learning sites for React ###
 Info blatantly stolen from an HN comment
+(https://news.ycombinator.com/item?id=12752467#12752503)
+
+Free free to add, or comment
 
 ##### Free #####
 * https://github.com/timarney/react-faq
